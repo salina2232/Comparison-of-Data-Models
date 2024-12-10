@@ -1,0 +1,84 @@
+Country Name,Region,Year,Homicide_Rate,Log GDP per capita,The Global Cyber Security Index,unemployment
+Afghanistan,Asia-Pasific,2021,4.0224977,7.325,5.2,13.28
+Albania,Europe,2021,2.3119686,9.588,64.32,11.82
+Algeria,Africa,2021,1.5731823,9.308,33.95,12.7
+Argentina,South America,2021,4.6226788,9.977,50.12,10.9
+Armenia,Europe,2021,2.1856172,9.561,50.47,20.9
+Australia,Asia-Pasific,2021,0.74456745,10.815,97.47,5.11
+Austria,Europe,2021,0.7285295,10.899,93.89,6.3
+Belgium,Europe,2021,1.0765264,10.856,96.25,6.42
+Bolivia,South America,2021,3.4935303,8.994,16.14,8.51
+Bosnia and Herzegovina,Europe,2021,0.9783111,9.674,29.44,15.22
+Brazil,South America,2021,22.384066,9.598,96.6,14.4
+Bulgaria,Europe,2021,1.2779799,10.102,67.38,5.42
+Cameroon,Africa,2021,4.5373755,8.216,45.63,3.87
+Canada,North America,2021,2.0652595,10.783,97.67,7.51
+Chile,South America,2021,3.6320386,10.143,68.83,9.13
+China,Asia-Pasific,2021,0.50227034,9.779,92.53,4.82
+Colombia,South America,2021,27.484365,9.593,63.72,14.34
+Costa Rica,North America,2021,11.40871,9.961,67.45,17.95
+Croatia,Europe,2021,0.81278074,10.367,92.53,8.68
+Cyprus,Europe,2021,1.2859793,10.638,88.82,6.13
+Denmark,Europe,2021,0.80283684,10.968,92.6,4.8
+Dominican Republic,North America,2021,10.541584,9.832,75.05,8.5
+Ecuador,South America,2021,14.024255,9.275,26.3,6.43
+El Salvador,North America,2021,18.165499,9.126,13.3,5.94
+Estonia,Europe,2021,1.9567984,10.564,99.48,6.33
+Finland,Europe,2021,1.645728,10.794,95.78,7.53
+France,Europe,2021,1.13743,10.714,97.6,8.06
+Germany,Europe,2021,0.83324784,10.881,97.41,3.54
+Ghana,Africa,2021,1.8365651,8.601,86.69,4.7
+Greece,Europe,2021,0.85205257,10.294,93.98,14.8
+Honduras,North America,2021,38.245457,8.626,2.2,8.51
+Hungary,Europe,2021,0.7724166,10.423,91.28,4.12
+Iceland,Europe,2021,0.5400516,10.878,79.81,5.4
+India,Asia-Pasific,2021,2.9362788,8.806,97.5,5.98
+Ireland,Europe,2021,0.4411889,11.54,85.86,6.63
+Israel,Asia-Pasific,2021,1.9438074,10.655,90.93,5.05
+Italy,Europe,2021,0.51147586,10.647,96.13,9.83
+Jamaica,North America,2021,52.127274,9.17,32.53,9.18
+Japan,Asia-Pasific,2021,0.22870894,10.622,97.82,2.8
+Jordan,Asia-Pasific,2021,1.0225796,9.127,70.96,19.25
+Kazakhstan,Asia-Pasific,2021,3.192962,10.17,93.15,4.9
+Kenya,Africa,2021,5.274913,8.465,81.7,5.74
+Latvia,Europe,2021,3.0417538,10.376,97.28,7.6
+Lebanon,Asia-Pasific,2021,2.2603166,9.472,30.44,14.49
+Lithuania,Europe,2021,2.5837471,10.579,97.93,7.9
+Malaysia,Asia-Pasific,2021,0.72377706,10.179,98.06,4.61
+Malta,Europe,2021,0.3796882,10.727,83.65,3.5
+Mauritius,Africa,2021,2.6175704,9.948,96.89,7.41
+Mexico,North America,2021,28.175653,9.857,81.68,4.38
+Moldova,Europe,2021,3.0147362,9.518,75.78,3.96
+Mongolia,Asia-Pasific,2021,6.153327,9.365,26.2,7.08
+Morocco,Africa,2021,1.9311379,8.994,82.41,11.47
+Myanmar,Asia-Pasific,2021,28.437815,8.302,36.41,2.17
+Namibia,Africa,2021,12.449852,9.128,11.47,21.68
+Netherlands,Europe,2021,0.65136546,10.944,97.05,4.01
+Nicaragua,North America,2021,11.006432,8.647,9,5.96
+Norway,Europe,2021,0.5367368,11.096,96.89,4.99
+Pakistan,Asia-Pasific,2021,3.9787881,8.563,64.88,4.35
+Panama,North America,2021,12.639997,10.323,34.11,12.09
+Paraguay,South America,2021,7.8313804,9.523,57.09,7.21
+Peru,South America,2021,5.7138987,9.436,55.67,4.83
+Poland,Europe,2021,0.71265,10.461,93.86,3.37
+Portugal,Europe,2021,0.7968822,10.425,97.32,6.65
+Romania,Europe,2021,1.2623806,10.341,76.29,5.17
+Serbia,Europe,2021,1.0552616,9.895,89.8,11.81
+Sierra Leone,Africa,2021,2.1374865,7.387,25.31,5.33
+Singapore,Asia-Pasific,2021,0.10099207,11.587,98.52,3.62
+Slovenia,Europe,2021,0.4246466,10.598,74.93,4.42
+South Africa,Africa,2021,41.865726,9.496,78.46,33.56
+Spain,Europe,2021,0.6106943,10.544,98.52,14.73
+Sweden,Europe,2021,1.0795734,10.893,94.55,8.66
+Switzerland,Europe,2021,0.48323596,11.158,86.97,5.32
+Tajikistan,Asia-Pasific,2021,0.9116432,8.271,17.01,7.75
+Tanzania,Africa,2021,3.704753,7.857,90.58,2.65
+Tunisia,Africa,2021,4.6210556,9.249,86.23,16.82
+Uganda,Africa,2021,8.531467,7.717,69.98,2.94
+Ukraine,Europe,2021,3.843201,9.469,65.93,8.88
+United Arab Emirates,Asia-Pasific,2021,0.46982723,11.152,98.06,3.36
+United Kingdom,Europe,2021,1.0035868,10.713,99.54,4.53
+United States,North America,2021,6.8074665,11.061,100,5.46
+Uruguay,South America,2021,8.901836,10.054,75.15,10.45
+Uzbekistan,Asia-Pasific,2021,1.4054567,8.962,71.11,7.16
+Zimbabwe,Africa,2021,6.139985,7.657,36.49,5.17
